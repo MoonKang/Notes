@@ -15,7 +15,7 @@ Topics covered:
 ## DL_note
   Deep Learning book by Ian Goodfellow (http://www.deeplearningbook.org/)
   
-Note that I have copied & pasterd most part of his book as my purpose was to log important part of book instead of writing everything on my own words.
+Note that I have copied & pasted mostly on key parts of his book, instead of writing things on my own words. In my agenda to review again and edit note.
 
 ## DL_note2
-  This note is written to cover contents from \textit{Neural Networks and Deep Learning} by Michael Nielson. (http://neuralnetworksanddeeplearning.com/index.html)
+  This note is written to cover contents from "Neural Networks and Deep Learning" by Michael Nielson. (http://neuralnetworksanddeeplearning.com/index.html)
